@@ -6,11 +6,11 @@
 
     <!-- Project coordinates -->
     <groupId>com.example</groupId>
-    <artifactId>my-project</artifactId>
+    <artifactId>project</artifactId>
     <version>1.0-SNAPSHOT</version>
 
     <!-- Project information -->
-    <name>My Project</name>
+    <name>Project</name>
     <description>A simple Maven project</description>
 
     <!-- Dependencies -->
