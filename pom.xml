@@ -7,7 +7,7 @@
     <groupId>com.example</groupId>
     <artifactId>your-artifact-id</artifactId>
     <version>1.0.0</version>
-    <packaging>war</packaging>
+    <packaging>jar</packaging>
 
     <name>Project Name</name>
     <description>A brief description of your project.</description>
