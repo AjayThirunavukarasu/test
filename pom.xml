@@ -5,7 +5,7 @@
     <groupId>your.group.id</groupId>
     <artifactId>your-artifact-id</artifactId>
     <version>1.0.0</version>
-    <name>Your Project Name</name>
+    
 
     <!-- Add your dependencies here -->
 
