@@ -30,14 +30,6 @@
 			<version>3.8.1</version>
 			<scope>test</scope>
 		</dependency>
-		<tomcat-users>
-    <!-- Define a user with the manager role -->
-    <user username="admin" password="admin" roles="manager-gui"/>
-
-    <!-- Add more users and roles as needed -->
-    <!-- Example: -->
-    <!-- <user username="another-user" password="another-password" roles="manager-gui"/> -->
-</tomcat-users>
 		
 	</dependencies>
 	<distributionManagement>
