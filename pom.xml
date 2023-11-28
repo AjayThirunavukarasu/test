@@ -8,31 +8,21 @@
     <artifactId>project</artifactId>
     <version>1.0.0</version>
 
-    <!-- Project dependencies -->
-    <dependencies>
-        <dependency>
-            <groupId>junit</groupId>
-            <artifactId>junit</artifactId>
-            <version>4.12</version>
-            <scope>test</scope>
-        </dependency>
-        <!-- Add other dependencies here -->
-    </dependencies>
-
-    <!-- Build configuration -->
+    <!-- Maven version -->
     <build>
         <plugins>
-            <!-- Maven plugins configuration -->
             <plugin>
                 <groupId>org.apache.maven.plugins</groupId>
                 <artifactId>maven-compiler-plugin</artifactId>
                 <version>3.8.5</version>
-                <configuration>
-                    <source>1.8</source>
-                    <target>1.8</target>
-                </configuration>
+                <!-- other configurations for the compiler plugin -->
             </plugin>
             <!-- Add other plugins here -->
         </plugins>
     </build>
+
+    <!-- Project dependencies -->
+    <dependencies>
+        <!-- Add your dependencies here -->
+    </dependencies>
 </project>
